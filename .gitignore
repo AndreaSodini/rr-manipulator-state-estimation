@@ -1,0 +1,7 @@
+*.asv
+*.slxc
+*.original
+slprj/
+*.autosave
+desktop.ini
+Thumbs.db
