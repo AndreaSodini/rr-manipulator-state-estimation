@@ -1,7 +1,7 @@
 # State Estimation of a Planar RR Manipulator: EKF, UKF and RTS Smoother
 
 Group project – *Identification of Uncertain Systems*, M.Sc. Robotics and Automation Engineering, University of Pisa (2025)
-Authors: Giulio Sergi, **Andrea Sodini**, Matilda Ferri
+Authors: **Andrea Sodini**, Giulio Sergi, Matilda Ferri
 
 The project estimates the joint angles and velocities of a two-link planar (RR) manipulator from noisy sensors, comparing nonlinear Bayesian filters and a fixed-interval smoother.
 
